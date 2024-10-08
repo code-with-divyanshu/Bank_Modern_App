@@ -6,6 +6,7 @@ import {
   CardDeal,
   Clients,
   CTA,
+  Footer,
   Hero,
   Navbar,
   Stats,
@@ -34,6 +35,8 @@ const App = () => (
         <CardDeal />
         <Testimonials />
         <Clients />
+        <CTA />
+        <Footer />
       </div>
     </div>
   </div>
